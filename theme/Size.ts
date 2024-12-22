@@ -1,0 +1,31 @@
+import { PrimitiveSizeSpace } from './PrimitiveSizeSpace';
+
+export const Size = {
+  $0: PrimitiveSizeSpace.$0,
+  '$0.8': PrimitiveSizeSpace.$point8,
+  $1: PrimitiveSizeSpace.$1,
+  '$1.5': PrimitiveSizeSpace.$onePoint5,
+  $2: PrimitiveSizeSpace.$2,
+  $4: PrimitiveSizeSpace.$4,
+  $8: PrimitiveSizeSpace.$8,
+  $12: PrimitiveSizeSpace.$12,
+  $14: PrimitiveSizeSpace.$14,
+  $16: PrimitiveSizeSpace.$16,
+  $18: PrimitiveSizeSpace.$18,
+  $20: PrimitiveSizeSpace.$20,
+  $24: PrimitiveSizeSpace.$24,
+  $28: PrimitiveSizeSpace.$28,
+  $32: PrimitiveSizeSpace.$32,
+  $34: PrimitiveSizeSpace.$34,
+  $36: PrimitiveSizeSpace.$36,
+  $40: PrimitiveSizeSpace.$40,
+  $44: PrimitiveSizeSpace.$44,
+  $48: PrimitiveSizeSpace.$48,
+  $52: PrimitiveSizeSpace.$52,
+  $56: PrimitiveSizeSpace.$56,
+  $60: PrimitiveSizeSpace.$60,
+  $212: PrimitiveSizeSpace.$212,
+  $999: PrimitiveSizeSpace.$999,
+  true: PrimitiveSizeSpace.$8,
+
+};
